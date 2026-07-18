@@ -71,7 +71,7 @@ LICENSE
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](C:/Users/Server/Pictures/Screenshots/dashboard_1.png)
 
 ---
 
